@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.grid {
+  width: 480px;
+  height: 480px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.grid > div {
+  width: 160px;
+  height: 160px;
+  background-color: brown;
+  border: 1px solid;
+  font-size: 140px;
+  text-align: center;
+}
