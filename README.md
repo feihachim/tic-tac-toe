@@ -2,7 +2,7 @@
 
 Project description: https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript/lessons/tic-tac-toe
 
-Link to website:
+Link to website: https://feihachim-odin-tic-tac-toe.netlify.app/
 
 Parts 1 trough 4 are done,so to say.
 Part 5 is almost done.
